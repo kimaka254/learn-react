@@ -69,7 +69,7 @@ import reportWebVitals from './reportWebVitals';
 // const el = <Counter />
 // ReactDOM.render(el, document.getElementById('root'));
 
-//learnig react hooks
+//learning react hooks
 // function Hi() {
 //   const [name, setName] = useState("Elsy");
 //   return <p>Hi {name}.</p>
